@@ -7,3 +7,17 @@
 	<br>
 	<br>
 </div>
+
+## Installation
+
+Install the most recent .pkg [here](https://github.com/macrohq/changelog/tree/v1.0.3/versions/v1/1.0.3/Macro.pkg).
+
+Once installed, Macro automatically updates whenever newer releases are published.
+
+## Current Release
+
+[v1.0.3](https://github.com/macrohq/changelog/releases/tag/v1.0.3)
+
+## Current Changelog
+
+[v1.0.3](https://github.com/macrohq/changelog/blob/master/versions/v1/1.0.3/changelog.md)
