@@ -10,7 +10,7 @@
 
 ## Installation
 
-Install the most recent .pkg [here](https://drive.google.com/open?id=1D4yzTSfURhipP4ulHREXhPw9cH_8ZAoR).
+Install the most recent .pkg [here](https://drive.google.com/drive/folders/10qBkn-xSk6x2sfn3U6E2gRyIsmAr3ZO6?usp=sharing).
 
 Once installed, Macro automatically updates whenever newer releases are published.
 
