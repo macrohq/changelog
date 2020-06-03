@@ -1,0 +1,4 @@
+- NEW: Home screen 🏡 When you open the app manually, you can click to start or join a meeting.
+- NEW: Onboarding flow 🏄‍♀️ When downloading and installing Macro for the first time, there's a richer experience to welcome new users.
+- NEW: Changelog 📝 There's a new little dot in the top right corner of Macro. Click anytime to see the most recent updates to Macro.
+- FIX: Macro Window Loading 🐛 No more sneaky little Macro window creeping up in the corner of your screen as you were launching into a meeting.
