@@ -10,14 +10,26 @@
 
 ## Installation
 
-Install the most recent .pkg [here](https://drive.google.com/drive/folders/10qBkn-xSk6x2sfn3U6E2gRyIsmAr3ZO6?usp=sharing).
+### New Users
+
+Install the most recent .pkg [here](https://drive.google.com/file/d/1rB5AzGArv5Pp3urQCqnyJUTuALN0F56y/view?usp=sharing).
+
+### Existing Users
 
 Once installed, Macro automatically updates whenever newer releases are published.
 
 ## Current Release
 
-[v1.0.3](https://github.com/macrohq/changelog/releases/tag/v1.0.3)
+[v1.1.0](https://github.com/macrohq/changelog/releases/tag/v1.1.0)
 
 ## Current Changelog
 
-[v1.0.3](https://github.com/macrohq/changelog/blob/master/versions/v1/1.0.3/changelog.md)
+[v1.1.0](https://github.com/macrohq/changelog/blob/master/versions/v1/1.1.0/changelog.md)
+
+## Troubleshooting
+
+If you're having trouble running the newest version of Macro, try these troubleshooting steps:
+
+ 1. Drag the Macro app into Trash, wait about a minute, and then empty trash. This will give you a clean slate for installation.
+ 2. Re-install the most recent .pkg file. Make sure to remove Macro from your computer before doing this step!
+ 3. Check that the version you are running is the current release by clicking on Macro > About Macro in the menu bar. If you are behind, try steps 1 and 2.
