@@ -14,7 +14,7 @@
 
 ### ⏲️Meeting countdown timer
 
-- Right under the meeting name you can now see how much time is remaining in the meeting! If you run over (we've all been there) the timer starts going in to overtime
+- Right under the meeting name you can now see how much time is remaining in the meeting! If you run over (we've all been there) the timer starts going in to overtime.
 
 ### 🐛 Bug fixes
 
