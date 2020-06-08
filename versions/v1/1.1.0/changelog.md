@@ -12,6 +12,10 @@
 
 - There's a new little dot in the top right corner of Macro 👀This lil guy is our changelog indicator. Click anytime to see the most recent updates to Macro. The dot also turns red to notify you a new update has been installed in the background and new features await.
 
+### ⏲️Meeting countdown timer
+
+- Right under the meeting name you can now see how much time is remaining in the meeting! If you run over (we've all been there) the timer starts going in to overtime
+
 ### 🐛 Bug fixes
 
 - Sometimes there'd be a sneaky little Macro window creeping up in the corner of your screen as you were launching into a meeting. That's been nixed.
