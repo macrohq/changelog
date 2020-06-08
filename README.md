@@ -12,7 +12,7 @@
 
 ### New Users
 
-Install the most recent .pkg [here](https://drive.google.com/file/d/1rB5AzGArv5Pp3urQCqnyJUTuALN0F56y/view?usp=sharing).
+Install the most recent .pkg [here](https://drive.google.com/drive/folders/10qBkn-xSk6x2sfn3U6E2gRyIsmAr3ZO6?usp=sharing).
 
 ### Existing Users
 
