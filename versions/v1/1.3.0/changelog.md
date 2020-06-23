@@ -13,7 +13,7 @@
 
 ### 🆘Help is just a click away
 
-- We've got new button that lets you chat directly with us in the app if you're experiencing any issues with Macro!
+- We've got a new button that lets you chat directly with us in the app if you're experiencing any issues with Macro!
 
 ### 😎Joined via Macro
 
