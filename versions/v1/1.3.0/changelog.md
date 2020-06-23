@@ -2,7 +2,7 @@
 
 ### ✨Collaboration Mode
 
-- Tired/annoyed/frustrated by Zoom taking up your whole screen and blocking you from getting *actual work* done with your team? Shift into collab mode - a **brand new interface** for zoom that shapes and organizes video into a more natural way to work with your team
+- Tired/annoyed/frustrated by Zoom taking up your whole screen and blocking you from getting *actual work* done with your team? Shift into collab mode - a **brand new interface** for Zoom that shapes and organizes video into a more natural way to work with your team
 - Choose either Discussion (standard) or Collaboration Mode before you launch into every meeting - all from your familiar Zoom links.
 
 ![https://media.giphy.com/media/cJT7NQOh53ZfhLEoRu/source.gif](https://media.giphy.com/media/cJT7NQOh53ZfhLEoRu/source.gif)
