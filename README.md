@@ -12,7 +12,7 @@
 
 ### New Users
 
-Install the most recent .pkg [here](https://drive.google.com/drive/folders/10qBkn-xSk6x2sfn3U6E2gRyIsmAr3ZO6?usp=sharing).
+Install the most recent .pkg [here](https://macro.app/api/v1/app/releases/latest/darwin/pkg/).
 
 ### Existing Users
 
@@ -20,11 +20,11 @@ Once installed, Macro automatically updates whenever newer releases are publishe
 
 ## Current Release
 
-[v1.5.2](https://github.com/macrohq/changelog/releases/tag/v1.5.2)
+[v1.6.0](https://github.com/macrohq/changelog/releases/tag/v1.6.0)
 
 ## Current Changelog
 
-[v1.5.2](https://github.com/macrohq/changelog/blob/master/versions/v1/1.5.2/changelog.md)
+[v1.6.0](https://github.com/macrohq/changelog/blob/master/versions/v1/1.6.0/changelog.md)
 
 ## Troubleshooting
 
