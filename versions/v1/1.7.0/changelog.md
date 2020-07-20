@@ -6,5 +6,5 @@
  - The control panel in Collaboration View would sometimes be tricky to find - we've made it easier to show so you can access your meetings settings much faster. 
  
 ### 🔺 A place for feedback
- - We've setup feedback.macro.io for you to submit any bugs you encounter or feature requests you think of! 
+ - We've set up feedback.macro.io for you to submit any bugs you encounter or feature requests you think of! 
  - Some awesome ideas submitted by users that will be coming soon: Draggable collab video bubbles, in meeting- switching between discussion & collab view, and editable notes
