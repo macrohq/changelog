@@ -16,7 +16,7 @@
 - We've got new, daily rotating meeting backgrounds (not virtual/video backgrounds but rather the space between everyones videos thats typically a static black) that add a refreshing air of newness into your meetings. If you like the typical black background, you can always toggle this off in settings 🖤
 
 ### 🕹️Automatic View Toggling
-- Macro now intelligently toggles your view when you start your own or begin viewing a screenshare (and toggles back after). As always, you can customize this in settings, and if you're so bold even set Macro to toggle your view anytime you click out of the meeting window 👀
+- Macro now intelligently toggles your view when you start your own or begin viewing a screenshare (and toggles back after). As always, you can customize this in settings 👀
 
 ### 🦋Bug fixes & improvements
 - You can now re-size the screen share window. Huzzah!
