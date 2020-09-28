@@ -20,11 +20,11 @@ Once installed, Macro automatically updates whenever newer releases are publishe
 
 ## Current Release
 
-[v1.13.3](https://github.com/macrohq/changelog/releases/tag/v1.13.3)
+[v1.13.4](https://github.com/macrohq/changelog/releases/tag/v1.13.4)
 
 ## Current Changelog
 
-[v1.13.3](https://github.com/macrohq/changelog/blob/master/versions/v1/1.13.3/changelog.md)
+[v1.13.4](https://github.com/macrohq/changelog/blob/master/versions/v1/1.13.4/changelog.md)
 
 ## Troubleshooting
 
