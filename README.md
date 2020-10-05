@@ -33,3 +33,11 @@ If you're having trouble running the newest version of Macro, try these troubles
  1. Drag the Macro app into Trash, wait about a minute, and then empty trash. This will give you a clean slate for installation.
  2. Re-install the most recent .pkg file. Make sure to remove Macro from your computer before doing this step!
  3. Check that the version you are running is the current release by clicking on Macro > About Macro in the menu bar. If you are behind, try steps 1 and 2.
+ 
+#### Contributors
+ - John Keck
+ - Ankith Harathi
+ - Rossi Meacham
+ - Nitin Rajinikanth
+ - Jamie Carr
+ - Hyam Fayed
