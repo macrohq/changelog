@@ -12,7 +12,7 @@
 
 ### New Users
 
-Install the most recent .pkg [here](https://macro.app/api/v1/app/releases/latest/darwin/pkg/).
+Install the most recent .dmg [here](https://macro.app/api/v1/app/releases/latest/darwin/pkg/).
 
 ### Existing Users
 
