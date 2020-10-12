@@ -6,7 +6,7 @@
 
 ### 🔻Even lower app size
 - How it started: 430MB
-- Now: 267MB 💥
+- Now: 273MB 💥
 
 ### 🐎Even faster app launch
 - Fastest launches yet, and we've got more improvements coming. Whether clicking a link or hitting  launch from the homescreen, Macro gets you into your meetings @fast
